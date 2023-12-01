@@ -1,0 +1,14 @@
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\bin\Debug\net7.0\parprogrammeringv2.exe
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\bin\Debug\net7.0\parprogrammeringv2.deps.json
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\bin\Debug\net7.0\parprogrammeringv2.runtimeconfig.json
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\bin\Debug\net7.0\parprogrammeringv2.dll
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\bin\Debug\net7.0\parprogrammeringv2.pdb
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.AssemblyInfo.cs
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.dll
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\refint\parprogrammeringv2.dll
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.pdb
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\parprogrammeringv2.genruntimeconfig.cache
+C:\Users\master\Desktop\Get\oppgaver1\virtuelPet\parprogrammeringv2\parprogrammeringv2\obj\Debug\net7.0\ref\parprogrammeringv2.dll
